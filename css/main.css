@@ -49,13 +49,24 @@
 .title-video{
     color: #333;
     font-family: 'Staatliches', cursive;
+    font-size: 16pt;
+    font-weight: bold;
     padding-bottom: 20px;
-    padding-top: 10px;
+    padding-top: 100px;
 }
 
 
 .content{
     color: #333;
     font-family: 'Staatliches', cursive;
-    padding-bottom: 40px;
+}
+
+.content-code{
+    padding-top: 40px;
+}
+
+.desc-code{
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
 }
